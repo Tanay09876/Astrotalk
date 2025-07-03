@@ -213,3 +213,6 @@ const ChatWithAstrologerPage = () => {
 };
 
 export default ChatWithAstrologerPage;
+
+
+
